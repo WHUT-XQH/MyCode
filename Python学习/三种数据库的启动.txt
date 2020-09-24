@@ -1,0 +1,8 @@
+登录mongodb: sudo mongod --dbpath=/var/lib/mongodb
+mysql初始密码:xmE2HIP6oc2RQuIK
+
+登录redis:redis-server
+
+登录mysql:mysql -u root -p
+密码:123
+
